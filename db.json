@@ -85,34 +85,6 @@
             ]
           },
           {
-            "id": 5602,
-            "name": "TF1_BOUYGUES_ULTYM_15s_VF_16-9_WEB",
-            "duration": 15,
-            "size": 321030996,
-            "video_quality": "1920x1080",
-            "encoder":[
-                {
-                    "id": 13813,
-                    "size": 4033027,
-                    "quality": "1920x1080"
-                  }
-            ],
-            "dossiers":[
-                {
-                    "id": 180,
-                    "dossier": "TF1"
-                  },
-                  {
-                    "id": 434,
-                    "dossier": "DIGITAL-selected"
-                  },
-                  {
-                    "id": 440,
-                    "dossier": "Nouveau code - Wifi N°1"
-                  }
-            ]
-          },
-          {
             "id": 5603,
             "name": "TF1_BOUYGUES_ULTYM_30s_VF_16-9_WEB_NO_MS",
             "duration": 30,
