@@ -90,13 +90,6 @@
         "duration": 15,
         "size": 308351748,
         "video_quality": "1920x1080"
-      },
-      {
-        "id": 5615,
-        "name": "YOUTUBE_BOUYGUES_ULTYM_30s_VA_16-9_WEB_YOUTUBE",
-        "duration": 30,
-        "size": 660428036,
-        "video_quality": "1920x1080"
       }
     ],
     "encodee": [
@@ -176,12 +169,6 @@
         "id": 13830,
         "video_id": 5614,
         "size": 3957479,
-        "quality": "1920x1080"
-      },
-      {
-        "id": 13831,
-        "video_id": 5615,
-        "size": 8102197,
         "quality": "1920x1080"
       }
     ],
@@ -385,26 +372,6 @@
         "id": 440,
         "dossier": "Nouveau code - Wifi N°1",
         "video": 5614
-      },
-      {
-        "id": 177,
-        "dossier": "Youtube",
-        "video": 5615
-      },
-      {
-        "id": 434,
-        "dossier": "DIGITAL-selected",
-        "video": 5615
-      },
-      {
-        "id": 437,
-        "dossier": "Skippable",
-        "video": 5615
-      },
-      {
-        "id": 440,
-        "dossier": "Nouveau code - Wifi N°1",
-        "video": 5615
       }
     ],
     "rapport": [
