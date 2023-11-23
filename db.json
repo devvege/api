@@ -281,62 +281,6 @@
             ]
           },
           {
-            "id": 5609,
-            "name": "MEDIASQUARE_BOUYGUES_ULTYM_30s_VF_16-9_WEB",
-            "duration": 30,
-            "size": 673030420,
-            "video_quality": "1920x1080",
-            "encoder":[
-                {
-                    "id": 13820,
-                    "size": 8075684,
-                    "quality": "1920x1080"
-                  }
-            ],
-            "dossiers":[
-                {
-                    "id": 434,
-                    "dossier": "DIGITAL-selected"
-                  },
-                  {
-                    "id": 435,
-                    "dossier": "MEDIASQUARE"
-                  },
-                  {
-                    "id": 440,
-                    "dossier": "Nouveau code - Wifi N°1"
-                  }
-            ]
-          },
-          {
-            "id": 5610,
-            "name": "TWITCH_BOUYGUES_ULTYM_15s_VF_16-9_WEB",
-            "duration": 15,
-            "size": 28501260,
-            "video_quality": "1920x1080",
-            "encoder":[
-                {
-                    "id": 13821,
-                    "size": 9653530,
-                    "quality": "1920x1080"
-                  }
-            ],
-            "dossiers":[
-                {
-                    "id": 179,
-                    "dossier": "Twitch"
-                  },
-                  {
-                    "id": 434,
-                    "dossier": "DIGITAL-selected"
-                  },
-                  {
-                    "id": 440,
-                    "dossier": "Nouveau code - Wifi N°1"
-                  }
-            ]
-          },
-          {
             "id": 5614,
             "name": "YOUTUBE_BOUYGUES_ULTYM_15s_VA_16-9_WEB_YOUTUBE",
             "duration": 15,
