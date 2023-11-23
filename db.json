@@ -309,34 +309,6 @@
             ]
           },
           {
-            "id": 5610,
-            "name": "TWITCH_BOUYGUES_ULTYM_15s_VF_16-9_WEB",
-            "duration": 15,
-            "size": 28501260,
-            "video_quality": "1920x1080",
-            "encoder":[
-                {
-                    "id": 13821,
-                    "size": 9653530,
-                    "quality": "1920x1080"
-                  }
-            ],
-            "dossiers":[
-                {
-                    "id": 179,
-                    "dossier": "Twitch"
-                  },
-                  {
-                    "id": 434,
-                    "dossier": "DIGITAL-selected"
-                  },
-                  {
-                    "id": 440,
-                    "dossier": "Nouveau code - Wifi N°1"
-                  }
-            ]
-          },
-          {
             "id": 5614,
             "name": "YOUTUBE_BOUYGUES_ULTYM_15s_VA_16-9_WEB_YOUTUBE",
             "duration": 15,
@@ -357,38 +329,6 @@
                   {
                     "id": 436,
                     "dossier": "Digital selected"
-                  },
-                  {
-                    "id": 437,
-                    "dossier": "Skippable"
-                  },
-                  {
-                    "id": 440,
-                    "dossier": "Nouveau code - Wifi N°1"
-                  }
-            ]
-          },
-          {
-            "id": 5615,
-            "name": "YOUTUBE_BOUYGUES_ULTYM_30s_VA_16-9_WEB_YOUTUBE",
-            "duration": 30,
-            "size": 660428036,
-            "video_quality": "1920x1080",
-            "encoder":[
-                {
-                    "id": 13831,
-                    "size": 8102197,
-                    "quality": "1920x1080"
-                  }
-            ],
-            "dossiers":[
-                {
-                    "id": 177,
-                    "dossier": "Youtube"
-                  },
-                  {
-                    "id": 434,
-                    "dossier": "DIGITAL-selected"
                   },
                   {
                     "id": 437,
