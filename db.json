@@ -394,23 +394,6 @@
                     "Emission-Co2-Encodee": 144.284441884,
                     "Gain-carbone": 130.13614674479,
                     "Reduction-poids": 47.42
-                  },
-                  {
-                    "Dossier-N1": "Nouveau code - Wifi N°1",
-                    "Dossier-N2": "DIGITAL-selected",
-                    "Dossier-N3": "Meta",
-                    "Dossier-N4": "",
-                    "Nom-video": "FACEBOOK_BOUYGUES_ULTYM_15s_VF_16-9_WEB",
-                    "Resolution": "1920x1080",
-                    "impression": 73000,
-                    "Poids-unitaire-source": 0.02850126,
-                    "Total-poids-source": 2080.59198,
-                    "Emission-CO2-source": 90.713810328,
-                    "Poids-unitaire-Encodee": 0.006266565,
-                    "Total-poids-Encodee": 457.459245,
-                    "Emission-Co2-Encodee": 19.945223082,
-                    "Gain-carbone": 70.765843436873,
-                    "Reduction-poids": 78.01
                   }
             ]
         }
